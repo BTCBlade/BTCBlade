@@ -11,7 +11,7 @@
 
 ### Feel free to reach out!
 
-<a href="https://www.linkedin.com/in/tommy-chen-a131451b3/" target="_blank">
+<a href="https://www.linkedin.com/in/tommynchen/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
